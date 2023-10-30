@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contact-text {
+  color: #551e53;
+  font-size: 80px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}

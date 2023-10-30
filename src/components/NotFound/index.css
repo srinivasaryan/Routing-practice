@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-text {
+  color: #551e53;
+  font-size: 45px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
